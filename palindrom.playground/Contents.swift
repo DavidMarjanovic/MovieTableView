@@ -1,6 +1,6 @@
 import UIKit
 
-var str = "racecar"
+var str = "anavolimilovana"
 
 var palindrome = str.reversed()
 
